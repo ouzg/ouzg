@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **FiveM Dev. , Front-End Dev. , Programs about Electrical Circuit Design and LaTeX.**
 
-- 📄 Know about my experiences --> [ouzg.github.io](ouzg.github.io)
+- 📄 Know about my experiences --> [ouzg.github.io](https://ouzg.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
