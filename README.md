@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouzg&label=Profile%20views&color=0e75b6&style=flat" alt="ouzg" /> </p>
 
-- 🌱 I’m currently learning **Lua, JavaScript, Phyton, CSS & HTML also Electronics Circuit Design Programs (QUCS, Proteus and LTSpice) and, LaTeX.**
+- 🌱 I’m currently learning **Lua, JavaScript, Phyton, CSS & HTML also Electrical Circuit Design Programs (QUCS, Proteus and LTSpice) and, LaTeX.**
 
 - 📫 How to reach me --> [ouzgdev@gmail.com](mailto:ouzgdev@gmail.com)
 
