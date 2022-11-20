@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/ouzg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ouzg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20554640/ouzg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ouzg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ouzgprdc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ouzgprdc" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC5xJ6LtvPmJB8VVelnSBbyQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ouzgproductions" height="30" width="40" /></a>
 <a href="https://discord.gg/5nyAYvqnBb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="5nyAYvqnBb" height="30" width="40" /></a>
